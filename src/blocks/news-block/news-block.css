@@ -1,0 +1,10 @@
+@import url(./__title/news-block__title.css);
+@import url(./__cards/news-block__cards.css);
+@import url(./__border/news-block__border.css);
+@import url(./__button/news-block__button.css);
+
+.news-block {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  background-color: #F5F6F7;
+}

@@ -1,0 +1,12 @@
+@import url(./__avatar/about-author__avatar.css);
+@import url(./__border/about-author__border.css);
+@import url(./__information/about-author__information.css);
+@import url(./__title/about-author__title.css);
+@import url(./__text/about-author__text.css);
+
+.about-author {
+  background-color: #fff;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  color: #1A1B22;
+}

@@ -1,0 +1,6 @@
+.header-top__menu {
+  width: 34.5%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

@@ -1,0 +1,17 @@
+@import url(./__image/card__image.css);
+@import url(./__bookmark/card__bookmark.css);
+@import url(./__bookmark-image/card__bookmark-image.css);
+@import url(./__information/card__information.css);
+@import url(./__date/card__date.css);
+@import url(./__title/card__title.css);
+@import url(./__text/card__tetxt.css);
+@import url(./__link/card__link.css);
+
+.card {
+  max-width: 400px;
+  min-width: 224px;
+  background-color: #fff;
+  border-radius: 16px;
+  overflow: hidden;
+  color: #1A1B22;
+}

@@ -1,0 +1,13 @@
+@import url(./__section-center/header-bottom__section-center.css);
+@import url(./__title/header-bottom__title.css);
+@import url(./__subtitle/header-bottom__subtitle.css);
+@import url(./__search/header-bottom__search.css);
+@import url(./__input/header-bottom__input.css);
+@import url(./__search-button/header-bottom__search-button.css);
+
+.header-bottom {
+  height: 496px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

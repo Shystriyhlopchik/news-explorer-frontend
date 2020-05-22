@@ -1,0 +1,8 @@
+.news-block__button {
+  margin: 64px auto 0 auto;
+  width: 288px;
+  height: 64px;
+  border: none;
+  background: #fff;
+  border-radius: 80px;
+}
